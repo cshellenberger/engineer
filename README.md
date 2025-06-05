@@ -6,17 +6,17 @@ BS, Mathematics
 MS, Mechanical Engineering
 
 ### Work Experience
-Mechanical Engineer | Neoguide Systems | 
-Director, Engineering | TransEnterix | 
-Principal ME | Solara Automation | 
-Principal Engineer | Teleflex | 
-Principal Engineer | Titan Medical | 
-Principal Engineer | Noah Medical | 
+- Mechanical Engineer | Neoguide Systems | 
+- Director, Engineering | TransEnterix | 
+- Principal ME | Solara Automation | 
+- Principal Engineer | Teleflex | 
+- Principal Engineer | Titan Medical | 
+- Principal Engineer | Noah Medical | 
 
 ### Projects
-Neoguide Surgical Robot | endoluminal
+- Neoguide Surgical Robot | endoluminal
 ![endoluminal robot](/images/Neoguide.png)
-SPIDER Single Port Surgical System | general Surgery
+- SPIDER Single Port Surgical System | general Surgery
 ![SPIDER](/images/SPIDER.png)
 5mm Multi-fire Clip Applier | general surgery
 ![Clip Applier](/images/AE5.png)
