@@ -24,11 +24,11 @@ SPIDER Single Port Surgical System | general Surgery
 
 4mm Robotic Endoscope | bronchoscopy
 
-###Automation Projects
+### Automation Projects
 Reflow Machine | Catheter construction
 Pneumatic Crimper | Instrument transmissions
 
-###Test Fixtures
+### Test Fixtures
 Jaw Grasping Force
 Articulation Forces
 Force Transmission Efficiency
