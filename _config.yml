@@ -1,5 +1,5 @@
 title: Carson Shellenberger
-#logo: /images/profile.JPG
-#description: text below image
-show_downloads: true
+logo: /images/profile.JPG
+description: Med Device | Robotics | Automation
+show_downloads: false
 theme: jekyll-theme-minimal
